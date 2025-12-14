@@ -1,0 +1,21 @@
+[submodule "EchOptimaFrontend-tgbot"]
+	path = EchOptimaFrontend-tgbot
+	url = https://github.com/CsOptima/EchOptimaFrontend-tgbot
+[submodule "EchOptimaFrontend-web"]
+	path = EchOptimaFrontend-web
+	url = https://github.com/CsOptima/EchOptimaFrontend-web
+[submodule "EchOptimaBackend"]
+	path = EchOptimaBackend
+	url = https://github.com/CsOptima/EchOptimaBackend
+[submodule "EchOptimaImage-service"]
+	path = EchOptimaImage-service
+	url = https://github.com/CsOptima/EchOptimaImage-service
+[submodule "EchOptimaSummarizer-service"]
+	path = EchOptimaSummarizer-service
+	url = https://github.com/CsOptima/EchOptimaSummarizer-service
+[submodule "EchOptimaSentiment-service"]
+	path = EchOptimaSentiment-service
+	url = https://github.com/CsOptima/EchOptimaSentiment-service
+[submodule "EchOptimaNER-service"]
+	path = EchOptimaNER-service
+	url = https://github.com/CsOptima/EchOptimaNER-service
